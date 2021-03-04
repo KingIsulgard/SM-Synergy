@@ -1,0 +1,20 @@
+"Phrases"
+{
+	"TurnedOn"
+	{
+		"en"			"Zet first person view tijdens dood aan."
+	}
+	"TurnedOff"
+	{
+		"en"			"Zet first person view tijdens dood uit."
+	}
+	"InfDisplay"
+	{
+		"en"			"Zet first person view tijdens dood 'on' of 'off', of '1' of '0'."
+	}
+	"InfCurSet"
+	{
+		"#format"		"{1:s}"
+		"en"			"Momenteel ingesteld op {1}"
+	}
+}

@@ -1,0 +1,32 @@
+"Phrases"
+{
+	"Red"
+	{
+		"en"		"Rood"
+	}
+	
+	"Green"
+	{
+		"en"		"Groen"
+	}
+	
+	"Blue"
+	{
+		"en"		"Blauw"
+	}
+	
+	"Yellow"
+	{
+		"en"		"Geel"
+	}
+	
+	"White"
+	{
+		"en"		"Wit"
+	}
+	
+	"Purple"
+	{
+		"en"		"Paars"
+	}
+}

@@ -2,22 +2,22 @@
 {
 	"SetModelTo"
 	{
-		"nl"			"Model instellen op {1}"
+		"nl"			"Uiterlijk instellen op {1}"
 	}
 	
 	"OCM"
 	{
-		"nl"			"Andere aangepaste modellen"
+		"nl"			"Ander uiterlijk"
 	}
 	
 	"CIT"
 	{
-		"nl"			"Inwoner "
+		"nl"			"Burger "
 	}
 	
 	"Hero"
 	{
-		"nl"			"Held {1}"
+		"nl"			"Verzetstrijder {1}"
 	}
 	
 	"FemaleNum"
@@ -27,46 +27,46 @@
 	
 	"MaleNum"
 	{
-		"nl"			"Mannetje {1}"
+		"nl"			"Man {1}"
 	}
 	
 	"DonatorOnly"
 	{
-		"nl"			"U moet een schenker zijn om dit model te gebruiken"
+		"nl"			"Enkel schenkers kunnen er zo uit zien"
 	}
 	
 	"NoCustomModels"
 	{
-		"nl"			"Geen aangepaste modellen op server."
+		"nl"			"Je kan je uiterlijk niet aanpassen op deze server."
 	}
 	
 	"MultipleReturnedSearch"
 	{
-		"nl"			"Heeft meerdere modellen gevonden met de naam die u heeft opgegeven, dit zijn de modellen: {1}"
+		"nl"			"Er zijn meerdere uiterlijken met die naam: {1}"
 	}
 	
 	"TooManyToShowInChat"
 	{
-		"nl"			"Heeft u meerdere modellen gevonden met de naam die u heeft opgegeven, controleer dan uw console."
+		"nl"			"Er zijn meerdere uiterlijken met die naam, meer informatie in de console."
 	}
 	
 	"MultipleReturnedSearchConsole"
 	{
-		"nl"			"Dit zijn de modellen met vergelijkbare namen als wat u heeft ingevoerd: {1}"
+		"nl"			"Er zijn meerdere uiterlijken met vergelijkbare namen: {1}"
 	}
 	
 	"CouldntFindModel"
 	{
-		"nl"			"Kon een model niet vinden dat {1} bevat"
+		"nl"			"Kon geen uiterlijk vinden dat {1} bevat"
 	}
 	
 	"ModelMenuGrp"
 	{
-		"nl"			"Selecteer een modelgroep:"
+		"nl"			"Selecteer een type uiterlijk:"
 	}
 	
 	"ModelMenu"
 	{
-		"nl"			"Selecteer het model dat u wenst te zijn:"
+		"nl"			"Selecteer het uiterlijk dat je wil:"
 	}
 }

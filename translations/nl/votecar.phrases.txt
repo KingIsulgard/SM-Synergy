@@ -1,0 +1,38 @@
+"Phrases"
+{
+	"cannotspawn"
+	{
+		"en"			"Je kan nu geen voertuig spawnen."
+	}
+	
+	"tooclosetoleft"
+	{
+		"en"			"Te dicht bij de linkermuur."
+	}
+	
+	"tooclosetoright"
+	{
+		"en"			"Te dicht bij de rechtermuur."
+	}
+	
+	"tooclosetofront"
+	{
+		"en"			"Te dicht bij de muur voor je."
+	}
+	
+	"delaytovote"
+	{
+		"#format"		"{1:i}"
+		"en"			"Je moet {1} seconden wachten."
+	}
+	
+	"CannotRemove"
+	{
+		"en"			"Het voertuig dat je wil verwijderen heeft inzittenden."
+	}
+	
+	"NoVehicle"
+	{
+		"en"			"Je hebt momenteel geen voertuigen."
+	}
+}
